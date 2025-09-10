@@ -54,12 +54,12 @@ void main(){
 
   print('Assignment Operators');
 
-  int num = 5;
-
-  num = num+2;
-  print(num);
-  num+=2; ///num = num+2;
-  print(num);
+  // int num = 5;
+  //
+  // num = num+2;
+  // print(num);
+  // num+=2; ///num = num+2;
+  // print(num);
 
 
   num = num*2;
